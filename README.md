@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning software engineering with ALX
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me ... through my social media handles.
+<a href="https://facebook.com/abraham.adeyemi">Facebook</a>
 
 <!---
 preacherabe/preacherabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
