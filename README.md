@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning software engineering with ALX
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me ... through my social media handles.
+- 📫 How to reach me ... through my social media handles. <br>
 <a href="https://facebook.com/abraham.adeyemi">Facebook</a>
 
 <!---
