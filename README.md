@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preacherabe
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning software engineering with ALX
+- 🌱 I’m currently learning software engineering myself
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me ... through my social media handles. <br>
 <a href="https://facebook.com/abraham.adeyemi">Facebook</a> <br>
